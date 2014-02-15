@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zippy", "zippy\zippy.csproj", "{F6386FDD-9410-4A8B-BB5E-013D472B3CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqUnitTest", "MoqUnitTest\MoqUnitTest.csproj", "{22D00D5E-035C-4166-A59A-4A991B320DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6386FDD-9410-4A8B-BB5E-013D472B3CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6386FDD-9410-4A8B-BB5E-013D472B3CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6386FDD-9410-4A8B-BB5E-013D472B3CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6386FDD-9410-4A8B-BB5E-013D472B3CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D00D5E-035C-4166-A59A-4A991B320DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D00D5E-035C-4166-A59A-4A991B320DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D00D5E-035C-4166-A59A-4A991B320DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D00D5E-035C-4166-A59A-4A991B320DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
